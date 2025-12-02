@@ -1,0 +1,18 @@
+# Compiled binaries (실행 파일 제외)
+thread_basic
+bounded_buffer
+alternating
+simple_server
+simple_client
+chat_server
+web_server
+my_cgi.cgi
+simple_gui
+calculator
+*.o
+*.out
+
+# Temporary files (임시 파일 제외)
+*.swp
+*~
+.DS_Store
